@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a passionate Python Developer with a strong foundation in backend web development.<br> I specialize in building dynamic and scalable web applications using the Django Framework, leveraging my expertise to deliver clean, efficient, and maintainable code.<br>Languages: Python, Java, C<br>Framework: Django<br>Databases: MySQL, SQLite
+Hi, I'm a passionate Python Developer with a strong foundation in backend web development.<br> I specialize in building dynamic and scalable web applications using the Django Framework, leveraging my expertise to deliver clean, efficient,and maintainable code.<br>Languages: Python, Java, C<br>Framework: Django<br>Databases: MySQL, SQLite
 
 
 ## 🌐 Socials:
