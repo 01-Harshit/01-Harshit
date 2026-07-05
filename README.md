@@ -1,10 +1,18 @@
-# <i>💫 About Me:
+## <i> 🌍  Open Source Contributions
+
+**typeddjango/django-stubs**
+- **Merged PR [#3233](https://github.com/typeddjango/django-stubs/pull/3233):**
+  Improved type safety of `CaptureQueriesContext` — refined 
+  `__iter__` to `Iterator[dict[str, str]]`, runtime verified, 
+  and added `assert_type` tests.
+
+# 💫 About Me:
 <b>I am a Full Stack Developer specializing in backend development with Django and Django REST Framework. I enjoy solving real problems —<br>
 whether building REST APIs from scratch or going deep into open-source codebases to fix something that actually matters. I approach every <br>
 problem methodically — reading source code, verifying behavior at runtime, and validating through proper testing before shipping.<br><br>
 </b>
 
-Technical Expertise :<br><br>
+**Technical Expertise :**<br><br>
 **Backend:** Python, Django, Django REST Framework, REST API Design<br>
 **Frontend:** JavaScript, HTML5, CSS3, Bootstrap<br>
 **Databases:** MySQL, SQLite, SQL<br>
@@ -24,7 +32,7 @@ Technical Expertise :<br><br>
 
 </i>
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=01-Harshit&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=01-Harshit&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
