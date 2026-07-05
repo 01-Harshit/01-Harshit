@@ -1,11 +1,13 @@
-# 💫 About Me:
-I am a Full Stack Developer specializing in backend development<br>with Django and Django REST Framework. I enjoy solving real <br>problems — whether building REST APIs from scratch or going <br>deep into open-source codebases to fix something that <br>actually matters. I approach every problem methodically — <br>reading source code, verifying behavior at runtime, and <br>validating through proper testing before shipping.<br><br>
-
+# <i>💫 About Me:
+<b>I am a Full Stack Developer specializing in backend development with Django and Django REST Framework. I enjoy solving real problems —<br>
+whether building REST APIs from scratch or going deep into open-source codebases to fix something that actually matters. I approach every <br>
+problem methodically — reading source code, verifying behavior at runtime, and validating through proper testing before shipping.<br><br>
+</b>
 
 Technical Expertise :<br><br>
-**Backend:** Python, Django, Django REST Framework, REST API Design<br><br>
-**Frontend:** JavaScript, HTML5, CSS3, Bootstrap<br><br>
-**Databases:** MySQL, SQLite, SQL<br><br>
+**Backend:** Python, Django, Django REST Framework, REST API Design<br>
+**Frontend:** JavaScript, HTML5, CSS3, Bootstrap<br>
+**Databases:** MySQL, SQLite, SQL<br>
 **Tools:** Git, GitHub, Mypy, VS Code, Render
 
 
@@ -19,6 +21,8 @@ Technical Expertise :<br><br>
 
 ![](https://streak-stats.demolab.com/?user=01-Harshit&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=01-Harshit&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</i>
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=01-Harshit&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
