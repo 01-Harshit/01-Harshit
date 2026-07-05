@@ -32,7 +32,7 @@ problem methodically — reading source code, verifying behavior at runtime, and
 
 </i>
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=01-Harshit&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
