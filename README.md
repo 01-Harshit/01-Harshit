@@ -3,8 +3,7 @@
 **typeddjango/django-stubs**
 - **Merged PR [#3233](https://github.com/typeddjango/django-stubs/pull/3233):**
   Improved type safety of `CaptureQueriesContext` — refined 
-  `__iter__` to `Iterator[dict[str, str]]`, runtime verified, 
-  and added `assert_type` tests.
+  `__iter__` to `Iterator[dict[str, str]]`, runtime verified, and added `assert_type` tests.
 
 # 💫 About Me:
 <b>I am a Full Stack Developer specializing in backend development with Django and Django REST Framework. I enjoy solving real problems —<br>
