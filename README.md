@@ -9,11 +9,12 @@ whether building REST APIs from scratch or going deep into open-source codebases
 problem methodically — reading source code, verifying behavior at runtime, and validating through proper testing before shipping.<br><br>
 </b>
 
-**Technical Expertise :**<br><br>
-**Backend:** Python, Django, Django REST Framework, REST API Design<br>
-**Frontend:** JavaScript, HTML5, CSS3, Bootstrap<br>
-**Databases:** MySQL, SQLite, SQL<br>
-**Tools:** Git, GitHub, Mypy, VS Code, Render
+### 🛠️ Technical Expertise
+
+* **Backend:** Python, Django, Django REST Framework, REST API Design
+* **Frontend:** JavaScript, HTML5, CSS3, Bootstrap
+* **Databases:** MySQL, SQLite, SQL
+* **Tools & Testing:** Git, GitHub, Postman, Mypy, VS Code, Render
 
 
 ## 🌐 Socials:
