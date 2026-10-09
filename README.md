@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshit Pandey
 
-<b>I am a Full Stack Developer specializing in backend development with Python, Django, Django REST Framework and FastAPI. I enjoy solving real problems —<br>whether building REST APIs from scratch, integrating LLM APIs into working products, or going deep into open-source codebases to fix something that actually matters. I approach every problem methodically — reading source code, verifying behavior at runtime, and validating through proper testing before shipping.</b>
+<b>I am a Full Stack Developer specializing in backend development with Python, Django, Django REST Framework and FastAPI. I enjoy solving real problems —<br><br>whether building REST APIs from scratch, integrating LLM APIs into working products, or going deep into open-source codebases to fix something that actually matters. I approach every problem methodically — reading source code, verifying behavior at runtime, and validating through proper testing before shipping.</b>
 
 🎓 B.Tech CSE @ IET, DDU Gorakhpur University &nbsp;|&nbsp; 💼 Open to internship opportunities
 
